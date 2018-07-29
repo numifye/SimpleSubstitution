@@ -1,6 +1,6 @@
 /*
- * Naomi Campbell CH2 Homework #12
- * CS166 2/16/2018
+ * Naomi Campbell
+ * Info Sec. 2/16/2018
  */
 
 import java.util.*;
